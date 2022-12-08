@@ -11,9 +11,11 @@
 int main(void)
 
 {
-
-	printf("with peoper grammar, but the outcome is a piece of art,\n");
+/**
+* its main function where we can start programs
+*/
+      printf("with peoper grammar, but the outcome is a piece of art,\n");
 
 	return (0);
 
-
+}
